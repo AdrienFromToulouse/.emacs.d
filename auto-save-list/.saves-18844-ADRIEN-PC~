@@ -1,0 +1,14 @@
+x:/asiance/babyfoot/stage/views/admin.jade
+x:\asiance\babyfoot\stage\views\#admin.jade#
+x:/asiance/babyfoot/stage/public/sass/admin.scss
+x:\asiance\babyfoot\stage\public\sass\#admin.scss#
+x:/asiance/babyfoot/stage/public/sass/main_mobile.scss
+x:\asiance\babyfoot\stage\public\sass\#main_mobile.scss#
+x:/asiance/babyfoot/stage/public/javascripts/admin_mgr.js
+x:\asiance\babyfoot\stage\public\javascripts\#admin_mgr.js#
+x:/asiance/babyfoot/stage/public/javascripts/admin.js
+x:\asiance\babyfoot\stage\public\javascripts\#admin.js#
+x:/asiance/babyfoot/stage/views/index_mobile.jade
+x:\asiance\babyfoot\stage\views\#index_mobile.jade#
+x:/asiance/babyfoot/stage/views/login.jade
+x:\asiance\babyfoot\stage\views\#login.jade#
